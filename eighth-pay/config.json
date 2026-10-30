@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "updated": "2026-10-30",
+  "currentDaPercent": 63,
+  "daHistory": [
+    {"from": "2025-07", "rate": 58},
+    {"from": "2026-01", "rate": 60},
+    {"from": "2026-07", "rate": 63}
+  ],
+  "defaultFitment": 1.92,
+  "presetFactors": [1.92, 2.28, 2.57, 2.86],
+  "hra8th": {"X": 24, "Y": 16, "Z": 8},
+  "arrearsStart": "2026-01",
+  "defaultImplementation": "2027-04",
+  "interstitialEvery": 2,
+  "notice": ""
+}
